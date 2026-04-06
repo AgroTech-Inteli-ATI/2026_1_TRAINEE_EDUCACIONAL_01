@@ -124,7 +124,7 @@ npm start
 
 ## 👥 Equipe
 
-**Integrantes**: 
+**Integrantes**: Julia Jesus Bezerra, Mateus Gongora Pereira Galatro e Miguel Augusto Evelin Freire Rodrigues
 
 --- 
 
