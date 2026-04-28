@@ -4,6 +4,7 @@ slug: /analise-estrategica/matriz-posicionamento
 description: "Análise de posicionamento competitivo"
 ---
 
+
 # Matriz de Posicionamento
 
 ## Definição dos Eixos
