@@ -10,23 +10,22 @@ description: "Identificação de oportunidades estratégicas"
 
 - **Desinvestimento de ativos não-core e distressed:** Venda de ativos como Raízen Power e usinas com baixa performance (ex-Biosev), liberando capital e reduzindo consumo de caixa.
 - **Saída das operações na Argentina:** Desinvestimento de uma operação com baixo retorno e alto risco cambial, que atualmente destrói valor.
-
 - **Reestruturação da estrutura de capital:** Captação via debêntures (conversível + incentivada) para reduzir alavancagem, melhorar liquidez e sustentar o capex.
 
 ## Justificativa
 
 As oportunidades derivam diretamente das fragilidades identificadas no benchmark e no posicionamento:
 
-- A Raízen S.A. apresenta baixa rentabilidade (EBIT ~1,7%) e ROIC abaixo do custo de capital, indicando destruição de valor
-- Possui estrutura de custos superior aos concorrentes, com menor produtividade agrícola
-- A empresa enfrenta alta alavancagem (2,6x Dívida/EBITDA), reduzindo flexibilidade estratégica
-- Existem ativos com fluxo de caixa negativo recorrente, tanto no Brasil (usinas distressed) quanto na Argentina
+- A Raízen S.A. apresenta baixa rentabilidade (EBIT ~1,7%) e ROIC abaixo do custo de capital, indicando destruição de valor;
+- Possui estrutura de custos superior aos concorrentes, com menor produtividade agrícola;
+- A empresa enfrenta alta alavancagem (2,6x Dívida/EBITDA), reduzindo flexibilidade estratégica;
+- Existem ativos com fluxo de caixa negativo recorrente, tanto no Brasil (usinas distressed) quanto na Argentina.
 
 Dessa forma, as oportunidades focam em:
 
-- Eliminar destruição de valor
-- Melhorar eficiência operacional
-- Reequilibrar a estrutura de capital
+- Eliminar destruição de valor;
+- Melhorar eficiência operacional;
+- Reequilibrar a estrutura de capital.
 
 ## Possíveis Direções Estratégicas
 
