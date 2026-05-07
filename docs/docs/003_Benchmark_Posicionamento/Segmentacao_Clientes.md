@@ -8,9 +8,9 @@ description: "Segmentação de clientes"
 
 ## Segmentos Identificados
 
-- Segmento 1: [Descrição]  
-- Segmento 2: [Descrição]  
-- Segmento 3: [Descrição]  
+- **B2B – Açúcar e Etanol (ESB):** Clientes industriais e distribuidores, incluindo tradings internacionais, refinarias, distribuidoras de combustíveis e indústrias químicas. 
+- **Energia e Biocombustíveis Avançados:** Concessionárias de energia e mercados premium de bioenergia (como etanol 2G e SAF), com forte influência regulatória. 
+- **Distribuição de Combustíveis (B2C e B2B):** Consumidor final (postos Shell), frotistas e empresas, além do segmento de aviação e lubrificantes.
 
 
 ## Necessidades dos Segmentos
@@ -19,16 +19,28 @@ description: "Segmentação de clientes"
 
 | Segmento | Necessidades | Critérios de decisão |
 |----------|-------------|----------------------|
-| Segmento 1 | | |
-| Segmento 2 | | |
-| Segmento 3 | | |
+| B2B Açúcar e Etanol | Preço competitivo, escala de fornecimento, previsibilidade de entrega, qualidade padronizada. | Preço internacional (USD), confiabilidade logística, contratos de longo prazo.
+| Energia e Bioenergia | Sustentabilidade, compliance regulatório, inovação (E2G/SAF), estabilidade de fornecimento. | Certificações ambientais, incentivos regulatórios, tecnologia. |
+| Distribuição (Shell) | Conveniência, qualidade do combustível, capilaridade, marca confiável. | Localização dos postos, preço na bomba, força da marca. |
 
 
 ## Análise
 
-- Qual segmento é mais relevante?  
-- Existe algum segmento pouco explorado?  
+O segmento mais relevante atualmente é o de Distribuição de Combustíveis, operado pela Raízen S.A. via marca Shell, pois:
 
----
+- Representa cerca de 75% da receita total;
+- Garante estabilidade de caixa, compensando a volatilidade do segmento sucroenergético;
+- Possui forte vantagem competitiva em marca e capilaridade.
+
+Já o segmento de bioenergia avançada (E2G/SAF) se destaca como pouco explorado, mas com alto potencial:
+
+- Mercado ainda incipiente, porém com crescimento impulsionado por regulação internacional;
+- Possibilidade de capturar prêmio de sustentabilidade;
+- Alavanca o pioneirismo tecnológico da empresa.
+
 
 ## Fontes
+
+- Raízen S.A. – Relatórios e segmentação operacional
+- UNICA – Dados setoriais
+
